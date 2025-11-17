@@ -41,13 +41,6 @@ Me chamo Helio de Oliveira Santos Neto, tenho 25 anos e sou de São Paulo. Estou
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-<img 
-    align="left" 
-    alt="GitHub"
-    title="GitHub" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
           
           
 
